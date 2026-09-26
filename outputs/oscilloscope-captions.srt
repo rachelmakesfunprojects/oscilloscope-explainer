@@ -1,0 +1,251 @@
+1
+00:00:01,000 --> 00:00:02,680
+Meet the world's tiniest pencil.
+
+2
+00:00:02,960 --> 00:00:04,460
+No lead. Just electrons.
+
+3
+00:00:05,060 --> 00:00:08,900
+A classic analog oscilloscope turns a
+changing voltage into a line of light.
+
+4
+00:00:09,560 --> 00:00:13,480
+Inside its glass tube is an electron
+gun: a little assembly that releases,
+
+5
+00:00:13,660 --> 00:00:16,500
+controls, accelerates
+and focuses electrons.
+
+6
+00:00:16,880 --> 00:00:17,680
+Let us follow them.
+
+7
+00:00:18,460 --> 00:00:22,655
+First, the heater. In this common design,
+a small filament warms a separate,
+
+8
+00:00:22,680 --> 00:00:27,215
+coated cathode. This is an indirectly
+heated cathode: the heater supplies
+
+9
+00:00:27,240 --> 00:00:30,375
+warmth; the cathode supplies
+the beam's electrons.
+
+10
+00:00:30,400 --> 00:00:34,155
+Heat gives some electrons enough energy
+to escape the surface, a process called
+
+11
+00:00:34,180 --> 00:00:38,175
+thermionic emission. They were already
+in the material; we have not invented new
+
+12
+00:00:38,200 --> 00:00:42,295
+electrons. Electrons arriving through
+the cathode's electrical connection
+
+13
+00:00:42,320 --> 00:00:44,180
+replace those carried away by the beam.
+
+14
+00:00:44,960 --> 00:00:48,795
+Meanwhile, the tube's vacuum removes
+nearly all the gas, allowing electrons to
+
+15
+00:00:48,820 --> 00:00:50,280
+travel with very few collisions.
+
+16
+00:00:51,760 --> 00:00:55,535
+Immediately ahead sits the control
+grid, usually a small metal cup with an
+
+17
+00:00:55,560 --> 00:00:58,540
+opening. It is held negative
+relative to the cathode.
+
+18
+00:00:58,960 --> 00:01:02,220
+Its electric field restricts how
+many electrons can enter the beam.
+
+19
+00:01:02,600 --> 00:01:06,380
+Make it less negative, and more
+pass through: a brighter trace.
+
+20
+00:01:06,880 --> 00:01:09,180
+Make it more negative,
+and the beam dwindles.
+
+21
+00:01:09,420 --> 00:01:10,600
+At cutoff, it is stopped.
+
+22
+00:01:11,120 --> 00:01:12,380
+Nothing has to slide shut.
+
+23
+00:01:12,960 --> 00:01:15,660
+This electrical gate can
+blank the beam between sweeps.
+
+24
+00:01:16,080 --> 00:01:17,760
+A remarkably punctual doorman.
+
+25
+00:01:18,900 --> 00:01:23,755
+Next, accelerating electrodes, called
+anodes, establish voltages more positive
+
+26
+00:01:23,780 --> 00:01:28,255
+than the cathode. Their electric fields
+give the electrons forward speed as they
+
+27
+00:01:28,280 --> 00:01:29,600
+pass through aligned openings.
+
+28
+00:01:30,380 --> 00:01:34,695
+'Positive' here means relative to the
+cathode, not necessarily positive relative
+
+29
+00:01:34,720 --> 00:01:37,740
+to ground. The power supply
+provides this energy.
+
+30
+00:01:38,060 --> 00:01:41,995
+The heater releases electrons from the
+surface; these voltage differences do the
+
+31
+00:01:42,020 --> 00:01:42,820
+accelerating.
+
+32
+00:01:43,960 --> 00:01:46,500
+Speed alone would give us
+a rather untidy splodge.
+
+33
+00:01:47,180 --> 00:01:50,960
+Shaped electrodes at carefully chosen
+voltages create an electrostatic lens.
+
+34
+00:01:51,440 --> 00:01:55,303
+Its curved electric field bends the paths
+of electrons towards a small spot on
+
+35
+00:01:55,328 --> 00:01:58,420
+the screen, much as an optical
+lens brings light to a focus.
+
+36
+00:01:58,880 --> 00:02:00,700
+There is no piece of glass in this lens.
+
+37
+00:02:01,060 --> 00:02:03,900
+Turn the focus control, and you
+adjust its electrical strength.
+
+38
+00:02:05,340 --> 00:02:08,355
+Now the beam reaches two pairs of
+deflection plates, arranged at right
+
+39
+00:02:08,380 --> 00:02:12,875
+angles. Because electrons carry negative
+charge, they bend towards the more
+
+40
+00:02:12,900 --> 00:02:16,600
+positive plate. One pair steers
+vertically; the other horizontally.
+
+41
+00:02:17,160 --> 00:02:20,280
+The input signal, suitably
+amplified, drives the vertical pair.
+
+42
+00:02:20,580 --> 00:02:23,900
+As that voltage rises and falls,
+the spot follows it up and down.
+
+43
+00:02:25,180 --> 00:02:29,235
+To spread that movement across time, a
+ramp voltage sweeps the spot steadily
+
+44
+00:02:29,260 --> 00:02:33,415
+from left to right. During the rapid
+return, called flyback, the beam is
+
+45
+00:02:33,440 --> 00:02:38,275
+blanked. At the screen, energetic
+electrons excite a phosphor coating, which
+
+46
+00:02:38,300 --> 00:02:40,420
+emits light and briefly continues glowing.
+
+47
+00:02:41,320 --> 00:02:44,020
+The travelling spot and its
+fading trail make the waveform.
+
+48
+00:02:44,480 --> 00:02:48,240
+Our drawn beam path is an illustration;
+the light appears at the screen.
+
+49
+00:02:49,480 --> 00:02:53,235
+Finally, the trigger waits for a chosen
+event, such as the signal crossing a
+
+50
+00:02:53,260 --> 00:02:55,160
+selected voltage in the rising direction.
+
+51
+00:02:55,760 --> 00:02:59,535
+Each sweep then begins at the same point
+in a repeating signal, so the trace
+
+52
+00:02:59,560 --> 00:03:03,780
+settles. Height tells us voltage;
+distance across tells us time.
+
+53
+00:03:04,160 --> 00:03:08,060
+An electron gun, some careful steering,
+and rather lovely handwriting.

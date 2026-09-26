@@ -1,0 +1,14 @@
+{
+  "provider": "ElevenLabs",
+  "voice": "Christopher - Gentle and Trustworthy",
+  "accent": "British",
+  "model": "Eleven Multilingual v2",
+  "speed": 1.08,
+  "duration_seconds": 45.37470833333333,
+  "previous_sample_duration_seconds": 60.84,
+  "audio_file": "narration-sample-elevenlabs-christopher.mp3",
+  "text_file": "narration-sample.txt",
+  "connection": "Generated in the ElevenLabs web app using the signed-in Safari session; no API connector installed.",
+  "format": "MP3 44.1 kHz (128 kbps)",
+  "validation": "Decoded successfully; non-silent audio."
+}

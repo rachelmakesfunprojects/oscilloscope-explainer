@@ -1,0 +1,21 @@
+{
+  "file": "oscilloscope-how-it-works.mp4",
+  "bytes": 12166481,
+  "duration_seconds": 197.548,
+  "width": 1920,
+  "height": 1080,
+  "fps": 24.0,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "subtitle_codec": "mov_text",
+  "frame_count": 4741,
+  "one_second_motion_changes": 190,
+  "one_second_comparisons": 197,
+  "minimum_frame_mean_luminance": 244.21229553222656,
+  "audio_peak": 0.8482304215431213,
+  "audio_rms": 0.15213867687277102,
+  "caption_cues": 53,
+  "caption_words": 505,
+  "sha256": "ccb01dc318a8dfe3d553c0482d5cfad7ed30a0ff7e4725ae6d5a310dae1711bb",
+  "checks": "Every video and audio frame decoded; monotonic video timestamps; dimensions, frame rate, audio peak, subtitle stream and exact caption text verified."
+}

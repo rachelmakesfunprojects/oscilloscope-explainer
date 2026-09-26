@@ -1,0 +1,32 @@
+# Local scratch work, downloaded runtimes, and installed dependencies.
+/work/
+/deps/
+node_modules/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Operating-system metadata and local tool/session state.
+.DS_Store
+**/.DS_Store
+Thumbs.db
+/:memory:.ses
+/:memory:.ses-*
+
+# Environment secrets and credential files are never deliverables.
+.env
+.env.*
+*.env
+credentials.json
+credentials.*.json
+*_credentials.json
+client_secret*.json
+service-account*.json
+service_account*.json
+*.pem
+*.key
+*.p12
+*.pfx
+.npmrc
+.netrc

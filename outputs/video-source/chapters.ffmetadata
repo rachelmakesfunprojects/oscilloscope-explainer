@@ -1,0 +1,47 @@
+;FFMETADATA1
+title=Meet the world’s tiniest pencil — How an analog oscilloscope works
+[CHAPTER]
+TIMEBASE=1/1000
+START=0
+END=18310
+title=1. The tiniest pencil
+[CHAPTER]
+TIMEBASE=1/1000
+START=18310
+END=51320
+title=2. Heater and cathode
+[CHAPTER]
+TIMEBASE=1/1000
+START=51320
+END=78630
+title=3. Control grid
+[CHAPTER]
+TIMEBASE=1/1000
+START=78630
+END=103590
+title=4. Acceleration
+[CHAPTER]
+TIMEBASE=1/1000
+START=103590
+END=124920
+title=5. Focusing
+[CHAPTER]
+TIMEBASE=1/1000
+START=124920
+END=144840
+title=6. Deflection
+[CHAPTER]
+TIMEBASE=1/1000
+START=144840
+END=169160
+title=7. Timebase and phosphor
+[CHAPTER]
+TIMEBASE=1/1000
+START=169160
+END=192548
+title=8. Trigger
+[CHAPTER]
+TIMEBASE=1/1000
+START=192548
+END=197548
+title=Voltage, made visible

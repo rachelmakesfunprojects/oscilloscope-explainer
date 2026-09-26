@@ -1,0 +1,13 @@
+{
+  "name": "oscilloscope-code-animation",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Procedural Caveat whiteboard oscilloscope explainer",
+  "scripts": {
+    "render": "node render-video.cjs",
+    "stills": "node render-video.cjs stills"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "0.1.100"
+  }
+}

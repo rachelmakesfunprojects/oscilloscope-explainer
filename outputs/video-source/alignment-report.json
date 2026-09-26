@@ -1,0 +1,91 @@
+{
+  "originalWords": 505,
+  "asrWords": 500,
+  "exactMatchedWords": 491,
+  "exactWordRatio": 0.9722772277227723,
+  "sequenceRatio": 0.981094527363184,
+  "changes": [
+    {
+      "kind": "replace",
+      "scriptIndex": 40,
+      "script": "Let us",
+      "asr": "Let's",
+      "start": 15.88
+    },
+    {
+      "kind": "insert",
+      "scriptIndex": 74,
+      "script": "",
+      "asr": "electrons.",
+      "start": 27.88
+    },
+    {
+      "kind": "replace",
+      "scriptIndex": 185,
+      "script": "At cutoff,",
+      "asr": "A cut -off",
+      "start": 67.02
+    },
+    {
+      "kind": "replace",
+      "scriptIndex": 212,
+      "script": "anodes,",
+      "asr": "V nodes,",
+      "start": 78.24
+    },
+    {
+      "kind": "delete",
+      "scriptIndex": 297,
+      "script": "spot on the screen, much as an",
+      "asr": "",
+      "start": 112.82,
+      "interpolationIncludesPreviousWords": "a small"
+    }
+  ],
+  "lowConfidenceAsr": [
+    {
+      "word": "analog",
+      "start": 4.6,
+      "end": 5.06,
+      "probability": 0.13981492817401886
+    },
+    {
+      "word": "electrons.",
+      "start": 28.3,
+      "end": 28.7,
+      "probability": 0.07853855192661285
+    },
+    {
+      "word": "V",
+      "start": 78.24,
+      "end": 78.38,
+      "probability": 0.12833508849143982
+    }
+  ],
+  "sourceDuration": 182.64816666666667,
+  "outputDuration": 192.54816666666667,
+  "sourceCutSamples": [
+    0,
+    797280,
+    2348160,
+    3625440,
+    4789920,
+    5780160,
+    6702720,
+    7836480,
+    8767112
+  ],
+  "captions": 53,
+  "loudnessAnalysis": {
+    "input_i": "-18.47",
+    "input_tp": "-1.25",
+    "input_lra": "3.20",
+    "input_thresh": "-28.89",
+    "output_i": "-16.52",
+    "output_tp": "-1.50",
+    "output_lra": "2.90",
+    "output_thresh": "-26.95",
+    "normalization_type": "dynamic",
+    "target_offset": "0.52"
+  }
+}

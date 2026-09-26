@@ -1,0 +1,35 @@
+{
+  "provider": "Microsoft Edge online speech service",
+  "voice": {
+    "Name": "Microsoft Server Speech Text to Speech Voice (en-GB, RyanNeural)",
+    "ShortName": "en-GB-RyanNeural",
+    "Gender": "Male",
+    "Locale": "en-GB",
+    "LocaleName": "English (United Kingdom)",
+    "SuggestedCodec": "audio-24khz-48kbitrate-mono-mp3",
+    "FriendlyName": "Microsoft Ryan Online (Natural) - English (United Kingdom)",
+    "Status": "GA",
+    "VoiceTag": {
+      "ContentCategories": [
+        "General"
+      ],
+      "VoicePersonalities": [
+        "Friendly",
+        "Positive"
+      ]
+    }
+  },
+  "rate": "-10%",
+  "pitch": "-2Hz",
+  "words": 124,
+  "output": "narration-sample-ryan.mp3",
+  "input": "narration-sample.txt",
+  "audio_verification": {
+    "duration_seconds": 60.84,
+    "sample_rate": 24000,
+    "channels": 1,
+    "peak": 22594,
+    "rms": 2642.69,
+    "decoded_samples": 1460160
+  }
+}

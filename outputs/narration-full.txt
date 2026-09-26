@@ -1,0 +1,16 @@
+Meet the world's tiniest pencil. No lead. Just electrons. A classic analog oscilloscope turns a changing voltage into a line of light. Inside its glass tube is an electron gun: a little assembly that releases, controls, accelerates and focuses electrons. Let us follow them.
+
+First, the heater. In this common design, a small filament warms a separate, coated cathode. This is an indirectly heated cathode: the heater supplies warmth; the cathode supplies the beam's electrons. Heat gives some electrons enough energy to escape the surface, a process called thermionic emission. They were already in the material; we have not invented new electrons. Electrons arriving through the cathode's electrical connection replace those carried away by the beam. Meanwhile, the tube's vacuum removes nearly all the gas, allowing electrons to travel with very few collisions.
+
+Immediately ahead sits the control grid, usually a small metal cup with an opening. It is held negative relative to the cathode. Its electric field restricts how many electrons can enter the beam. Make it less negative, and more pass through: a brighter trace. Make it more negative, and the beam dwindles. At cutoff, it is stopped. Nothing has to slide shut. This electrical gate can blank the beam between sweeps. A remarkably punctual doorman.
+
+Next, accelerating electrodes, called anodes, establish voltages more positive than the cathode. Their electric fields give the electrons forward speed as they pass through aligned openings. 'Positive' here means relative to the cathode, not necessarily positive relative to ground. The power supply provides this energy. The heater releases electrons from the surface; these voltage differences do the accelerating.
+
+Speed alone would give us a rather untidy splodge. Shaped electrodes at carefully chosen voltages create an electrostatic lens. Its curved electric field bends the paths of electrons towards a small spot on the screen, much as an optical lens brings light to a focus. There is no piece of glass in this lens. Turn the focus control, and you adjust its electrical strength.
+
+Now the beam reaches two pairs of deflection plates, arranged at right angles. Because electrons carry negative charge, they bend towards the more positive plate. One pair steers vertically; the other horizontally. The input signal, suitably amplified, drives the vertical pair. As that voltage rises and falls, the spot follows it up and down.
+
+To spread that movement across time, a ramp voltage sweeps the spot steadily from left to right. During the rapid return, called flyback, the beam is blanked. At the screen, energetic electrons excite a phosphor coating, which emits light and briefly continues glowing. The travelling spot and its fading trail make the waveform. Our drawn beam path is an illustration; the light appears at the screen.
+
+Finally, the trigger waits for a chosen event, such as the signal crossing a selected voltage in the rising direction. Each sweep then begins at the same point in a repeating signal, so the trace settles. Height tells us voltage; distance across tells us time. An electron gun, some careful steering, and rather lovely handwriting.
+
